@@ -1,1 +1,5 @@
 # GamesReach-02
+GamesReach is a web-based application that deploys game-based training systems and a differentiated learning approach for learners with learning disability. The purpose of GamesReach is to fill the gap between conventional teaching methods, and the learning needs of children with ADD, ADHD, memory and cognitive processing challenges.  
+GamesReach involves learning, real-time progress, tracking of performance and it has an integrated systematic intervention practice. The learning parameters in the system customizable through adaptive learning algorithms determine the content level and presentation type preferable by each learner making it unique for each learner. 
+The project remains pertinent since the usage of technologies inclusive of educational instruments continues to experience growth. 
+GamesReach can be also described as an educational system that is based on learner analytics with special child-oriented tools to improve learners’ achievements and their emotions.
